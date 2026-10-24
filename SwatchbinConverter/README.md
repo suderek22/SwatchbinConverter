@@ -29,7 +29,7 @@ Run from PowerShell:
 
 ```powershell
 .\build.ps1 `
-  -ForzaTechDir "E:\ForzaTech" `
+  -ForzaTechDir "\ForzaTech" `
   -StockSwatchbinDir ".\stock" `
   -SourcePngDir ".\png" `
   -OutputDir ".\output"
